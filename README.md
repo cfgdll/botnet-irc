@@ -1,4 +1,4 @@
-# botnetircold
+# botnetirc
 Old Botnet Irc Method
 
 Method used to have bots on the IRC Botnet, mIRC chat
