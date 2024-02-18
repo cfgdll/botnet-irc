@@ -8,6 +8,3 @@ Used only for study, college and knowledge, I am not responsible for misuse, eve
 [+] Download's:
 mIRC: http://www.mirc.com/ e
 Xchat: xchat.org/windows/
-
-Tutorial Video 2015
-https://www.youtube.com/watch?v=uDahK6o5dls
